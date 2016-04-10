@@ -1,0 +1,100 @@
+# Limit Access by IP to Your wp-login.php file in WordPress
+<Files wp-login.php>
+        order deny,allow
+        Deny from all
+# whitelist Jeff
+allow from 76.185.66.234
+</Files>
+# We start by protecting a number of important WordPress and web server files such as config, ini and log files
+<FilesMatch "^(wp-config\.php|php\.ini|php5\.ini|install\.php|php\.info|readme\.html|bb-config\.php|\.htaccess|\.htpasswd|readme\.txt|timthumb\.php|error_log|error\.log|PHP_errors\.log|\.svn)">
+Deny from all
+</FilesMatch>
+
+# Limit file upload size
+LimitRequestBody 10240000
+
+# Disable directory listing throughout your WordPress
+Options All -Indexes
+
+# Deny access to htaccess file
+<files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</files>
+
+# protect xmlrpc
+<IfModule mod_alias.c>
+     RedirectMatch 403 (?i)/xmlrpc.php
+</IfModule>
+
+# Deny access to config file
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+
+# Setup browser caching
+<IfModule mod_expires.c>
+ExpiresActive on
+
+# Perhaps better to whitelist expires rules? Perhaps.
+ExpiresDefault                          "access plus 1 month"
+
+# cache.appcache needs re-requests in FF 3.6 (thx Remy ~Introducing HTML5)
+ExpiresByType text/cache-manifest       "access plus 0 seconds"
+
+# Your document html
+ExpiresByType text/html                 "access plus 0 seconds"
+
+# Data
+ExpiresByType text/xml                  "access plus 0 seconds"
+ExpiresByType application/xml           "access plus 0 seconds"
+ExpiresByType application/json          "access plus 0 seconds"
+
+# RSS feed
+ExpiresByType application/rss+xml       "access plus 1 hour"
+
+# Favicon (cannot be renamed)
+ExpiresByType image/x-icon              "access plus 1 week"
+
+# Media: images, video, audio
+ExpiresByType image/gif                 "access plus 1 month"
+ExpiresByType image/png                 "access plus 1 month"
+ExpiresByType image/jpg                 "access plus 1 month"
+ExpiresByType image/jpeg                "access plus 1 month"
+ExpiresByType video/ogg                 "access plus 1 month"
+ExpiresByType audio/ogg                 "access plus 1 month"
+ExpiresByType video/mp4                 "access plus 1 month"
+ExpiresByType video/webm                "access plus 1 month"
+
+# HTC files  (css3pie)
+ExpiresByType text/x-component          "access plus 1 month"
+
+# Webfonts
+ExpiresByType font/truetype             "access plus 1 month"
+ExpiresByType font/opentype             "access plus 1 month"
+ExpiresByType application/x-font-woff   "access plus 1 month"
+ExpiresByType image/svg+xml             "access plus 1 month"
+ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+
+# CSS and JavaScript
+ExpiresByType text/css                  "access plus 1 year"
+ExpiresByType application/javascript    "access plus 1 year"
+ExpiresByType text/javascript           "access plus 1 year"
+
+<IfModule mod_headers.c>
+Header append Cache-Control "public"
+</IfModule>
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

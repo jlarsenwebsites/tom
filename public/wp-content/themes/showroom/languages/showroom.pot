@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Showroom Genesis Child Theme\n"
+"POT-Creation-Date: 2014-04-25 17:22+0800\n"
+"PO-Revision-Date: 2014-04-25 17:22+0800\n"
+"Last-Translator: joemar aparecio <floroxmar@gmail.com>\n"
+"Language-Team: zigzagpress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: D:\\ZIGZAGPRESS THEMES\\ZIGZAGPRESS THEMES "
+"(Uploaded)\\Theme Versions\\showroom"
+"\\v1.4\\showroom_theme_packagev1.4\\showroom\n"
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:158
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:159
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:160
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:161
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:163
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:164
+msgid "Archives for "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:162
+msgid "Search for "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:165
+msgid "404"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:189
+msgid "Read More"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:226
+msgid "Copyright"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:226
+msgid "on"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:247
+msgid "This is the Home sidebar of the homepage."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:255
+msgid "This is the left column of the middle section of the homepage."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:263
+msgid "This is the right column of the middle section of the homepage."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/functions.php:271
+msgid "This is the sidebar for single page portfolio."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/class/class-super-custom-post-meta.php:545
+msgid "Uploaded image:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/class/class-super-custom-post-meta.php:548
+msgid "Uploaded file:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/class/class-super-custom-post-meta.php:551
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/class/class-super-custom-post-meta.php:608
+msgid "Remove"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/class/class-super-custom-post-meta.php:566
+#, php-format
+msgid "Set %s"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/class/class-super-custom-post-meta.php:627
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/class/class-super-custom-post-meta.php:627
+msgid "Add Image"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:31
+msgid "Slide Button"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:31
+msgid "Button label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:32
+msgid "Button Link"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:32
+msgid "Put button link"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:41
+msgid "Define slide order. Ex. 1,2,3,4,..."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:50
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:113
+msgid "Title"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:51
+msgid "Slideshow"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:52
+msgid "Slide Order"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:53
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:115
+msgid "Date"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:66
+msgid "Unable to get slideshows(s)"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:96
+msgid "Short Portfolio Description"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:96
+msgid ""
+"Add short portfolio description. This will appear on homepage latest project "
+"and portfolio filter page."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:105
+msgid ""
+"Upload/Attach an image to this portfolio item. Images attached in here will "
+"be shown in the single portfolio page as a slider"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:105
+msgid "Attach images to this portfolio item"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:114
+msgid "Portfolio Category(s)"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/cpt/zp_cpt.php:128
+msgid "Unable to get portfolio category(s)"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_functions.php:60
+msgid "show all"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_functions.php:259
+msgid "No related projects"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:16
+msgid "Latest Projects"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:20
+msgid "View All"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:36
+msgid "Related Portfolio"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:123
+msgid "Settings reset."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:125
+msgid "Settings saved."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:178
+msgid "Home Carousel Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:179
+msgid "Slideshow Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:180
+msgid "Appearance Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:181
+msgid "Portfolio Settings "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:182
+msgid "Footer Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:195
+msgid "Check to enable carousel on the home page."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:197
+msgid "Home Carousel Title"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:199
+msgid "Home Carousel Description."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:203
+msgid "Number of Items"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:205
+msgid "Select Home Carousel Category"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:207
+msgid "All"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:217
+msgid "Carousel Button Label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:219
+msgid "Carousel Button Link"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:221
+msgid "This settings applies to the home carousel section."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:226
+msgid "Check to enable slider."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:227
+msgid "Include Slider Caption?"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:229
+msgid "Select HomePage Slideshow"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:239
+msgid "Set the speed of slideshow cycling in milliseconds."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:242
+msgid "Set the speed of animation in milliseconds."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:247
+msgid "This settings applies to the theme slider."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:251
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:255
+msgid "Number of items in the portfolio archive"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:253
+msgid "Number of items in the portfolio page"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:258
+msgid "This settings applies to portfolio template and archive."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:264
+msgid "Custom CSS Code."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:269
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:271
+msgid "Upload Logo"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:276
+msgid "Custom Logo Width in pixel. e.g. 200"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:279
+msgid "Custom Logo Height in pixel. e.g. 200"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:283
+msgid "Upload Custom Favicon."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:285
+msgid "Upload Favicon"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:292
+msgid "This is the appearance settings."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:296
+msgid "Footer Text"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:298
+msgid "Enter your site copyright here."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:310
+msgid "Insert Image!"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:363
+msgid "Showroom Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:364
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:373
+msgid "Save Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:365
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:374
+msgid "Reset Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:365
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/theme_settings.php:374
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-flickr.php:26
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-flickr.php:32
+msgid "Flickr Photos"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-flickr.php:112
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:144
+msgid "Title:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-flickr.php:118
+msgid "Flickr ID:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-flickr.php:124
+msgid "Number of Photos:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-flickr.php:134
+msgid "Type (user or group):"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-flickr.php:143
+msgid "Display (random or latest):"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:65
+msgid "Dribbble URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:69
+msgid "Email URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:73
+msgid "Facebook URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:77
+msgid "Google+ URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:81
+msgid "Linkedin URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:85
+msgid "Pinterest URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:89
+msgid "RSS URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:93
+msgid "Twitter URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:97
+msgid "YouTube URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:101
+msgid "Flickr URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:105
+msgid "Instagram URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:109
+msgid "Github URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:116
+msgid "Displays select social icons."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:125
+msgid "ZP Social Icons"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:149
+msgid "Icon Size"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:159
+msgid "Icon Border Radius:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:161
+msgid "Background Color:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:163
+msgid "Hover Color:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:165
+msgid "Icon Color:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:167
+msgid "Icon Hover Color:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:170
+msgid "Alignment"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:172
+msgid "Align Left"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\showroom\v1.4\showroom_theme_packagev1.4\showroom/lib/widgets/widget-social_icons.php:173
+msgid "Align Right"
+msgstr ""
